@@ -27,7 +27,7 @@ Example for MONGODB_URI :
 
 
 ## Demo 
-<a href='http://codejam2.herokuapp.com/'>http://codejam2.herokuapp.com</a>
+<!--- <a href='http://codejam2.herokuapp.com/'>http://codejam2.herokuapp.com</a> -->
 <a href='https://codejam-fd1v.onrender.com/'>https://codejam-fd1v.onrender.com/</a>
 
 
